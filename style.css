@@ -19,3 +19,14 @@
     color:white
 
 }
+#video{
+    position:relative;
+    min-height: 200px;
+    background-image: url("./img/med.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:0 -300px;
+    text-align: center;
+    color:white;
+
+}
