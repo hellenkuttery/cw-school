@@ -54,3 +54,14 @@
 .checked{
     color:gold
 }
+
+#courses-content{
+    position:relative;
+    min-height:300px;
+    min-width: 100%;
+    background-image: url("./img/bg-contact.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:0 -150px;
+    color:white
+}
